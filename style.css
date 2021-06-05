@@ -11,12 +11,13 @@ body{
 #main{
     display: grid;
     grid-template-columns: 2fr 2fr 2fr 2fr;
-    grid-gap: 1rem;
+    grid-gap: 0.2rem;
 
 }
 .box{
     margin-left: 20px;
     color: black;
-    font-size: 150px;
+    font-size: 100px;
+    text-align: center;
 
 }
