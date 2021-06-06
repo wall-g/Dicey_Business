@@ -21,3 +21,8 @@ body{
     text-align: center;
 
 }
+ @media screen and (max-width: 422px){
+     #main{
+         grid-template-columns: 2fr 2fr 2fr;
+     }
+ }
